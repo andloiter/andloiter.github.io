@@ -77060,7 +77060,7 @@ J(a){var s,r,q,p,o=this,n=null
 $.a2().ao(A.L(A.i(o).a,n)+" build")
 s=o.x
 o.a.toString
-s.push(A.cW(A.dy("assets/images/food_cup_ra-men_close.png",n),n,n))
+s.push(A.cW(A.dy("food_cup_ra-men_close.png",n),n,n))
 r=o.w
 if(r===$){q=o.a.f
 p=A.abz(!0,q,1,B.Zn)

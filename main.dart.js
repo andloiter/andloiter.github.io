@@ -76287,7 +76287,7 @@ $1(a){return this.a.us()},
 $S:23}
 A.EC.prototype={
 gOU(){var s,r=this.r
-if(r===$){s=A.i6(200,A.rX(B.l5,A.c([A.dy("images/doors/door_open.png",null)],t.p),B.an,B.d7),"\u30b3\u30de\u30eb\u4fee\u7df4\u5834","Flutter\u4fee\u7df4\u3057\u305f\u90e8\u5c4b",200)
+if(r===$){s=A.i6(200,A.rX(B.l5,A.c([A.dy("doors/door_open.png",null)],t.p),B.an,B.d7),"\u30b3\u30de\u30eb\u4fee\u7df4\u5834","Flutter\u4fee\u7df4\u3057\u305f\u90e8\u5c4b",200)
 this.r!==$&&A.a4()
 this.r=s
 r=s}return r},
@@ -76334,7 +76334,7 @@ if(B.h.aJ(p,n)>-1&&B.h.aJ(p,s)===-1)return"\u304a\u306f\u3088\u3046\u3054\u3056\
 else if(B.h.aJ(p,s)>-1&&B.h.aJ(p,r)===-1)return"\u3053\u3093\u306b\u3061\u306f\u3002"
 else if(B.h.aJ(p,r)>-1&&B.h.aJ(p,q)===-1)return"\u3053\u3093\u3070\u3093\u308f\u3002"
 else return"\u304a\u75b2\u308c\u69d8\u3067\u3059\u3002"},
-Ai(){return A.rX(B.l5,A.c([A.dy("images/doors/door_close.png",null),A.dy("images/text_company_kaigichu.png",null)],t.p),B.an,B.d7)}}
+Ai(){return A.rX(B.l5,A.c([A.dy("doors/door_close.png",null),A.dy("text_company_kaigichu.png",null)],t.p),B.an,B.d7)}}
 A.zJ.prototype={
 a8(){return new A.zK(B.n)}}
 A.zK.prototype={
@@ -76449,42 +76449,42 @@ $1(a){return this.a.Cx()},
 $S:23}
 A.Lj.prototype={
 gOX(){var s,r=this.r
-if(r===$){s=A.i6(160,A.dy("images/books/book1_green.png",B.bP),"\u6a19\u6e96UI\u2015\u90e8\u54c1",null,120)
+if(r===$){s=A.i6(160,A.dy("books/book1_green.png",B.bP),"\u6a19\u6e96UI\u2015\u90e8\u54c1",null,120)
 this.r!==$&&A.a4()
 this.r=s
 r=s}return r},
 gOV(){var s,r=this.w
-if(r===$){s=A.i6(160,A.dy("images/books/book1_green.png",B.bP),"GoogleFont",null,120)
+if(r===$){s=A.i6(160,A.dy("books/book1_green.png",B.bP),"GoogleFont",null,120)
 this.w!==$&&A.a4()
 this.w=s
 r=s}return r},
 gOW(){var s,r=this.x
-if(r===$){s=A.i6(160,A.dy("images/books/book1_green.png",B.bP),"Theme",null,120)
+if(r===$){s=A.i6(160,A.dy("books/book1_green.png",B.bP),"Theme",null,120)
 this.x!==$&&A.a4()
 this.x=s
 r=s}return r},
 gOT(){var s,r=this.y
-if(r===$){s=A.i6(160,A.dy("images/books/book3_blue.png",B.bP),"PlutoGrid",null,120)
+if(r===$){s=A.i6(160,A.dy("books/book3_blue.png",B.bP),"PlutoGrid",null,120)
 this.y!==$&&A.a4()
 this.y=s
 r=s}return r},
 gOP(){var s,r=this.z
-if(r===$){s=A.i6(160,A.dy("images/books/book2_orange.png",B.bP),"FluentUI",null,120)
+if(r===$){s=A.i6(160,A.dy("books/book2_orange.png",B.bP),"FluentUI",null,120)
 this.z!==$&&A.a4()
 this.z=s
 r=s}return r},
 gOS(){var s,r=this.Q
-if(r===$){s=A.i6(160,A.dy("images/books/book2_orange.png",B.bP),"Optimus",null,120)
+if(r===$){s=A.i6(160,A.dy("books/book2_orange.png",B.bP),"Optimus",null,120)
 this.Q!==$&&A.a4()
 this.Q=s
 r=s}return r},
 gOQ(){var s,r=this.as
-if(r===$){s=A.i6(160,A.dy("images/books/book4_red.png",B.bP),"KatanaUI&Form",null,120)
+if(r===$){s=A.i6(160,A.dy("books/book4_red.png",B.bP),"KatanaUI&Form",null,120)
 this.as!==$&&A.a4()
 this.as=s
 r=s}return r},
 gOR(){var s,r=this.at
-if(r===$){s=A.i6(160,A.dy("images/books/book4_red.png",B.bP),"MasamuneUniversalUI",null,120)
+if(r===$){s=A.i6(160,A.dy("books/book4_red.png",B.bP),"MasamuneUniversalUI",null,120)
 this.at!==$&&A.a4()
 this.at=s
 r=s}return r},
@@ -76566,7 +76566,7 @@ A.Lp.prototype={
 f1(a,b){var s,r,q,p=this,o=null
 $.a2().ao(A.L(A.i(p).a,o)+" build")
 s=p.f
-s.push(A.cW(A.dy("images/text_company_kaigichu.png",o),o,o))
+s.push(A.cW(A.dy("text_company_kaigichu.png",o),o,o))
 r=p.e
 if(r===$){q=A.dZ(!1,"FluentUI")
 r!==$&&A.a4()
@@ -76623,7 +76623,7 @@ A.Lr.prototype={
 f1(a,b){var s,r,q,p=this,o=null
 $.a2().ao(A.L(A.i(p).a,o)+" build")
 s=p.f
-s.push(A.cW(A.dy("images/text_company_kaigichu.png",o),o,o))
+s.push(A.cW(A.dy("text_company_kaigichu.png",o),o,o))
 r=p.e
 if(r===$){q=A.dZ(!1,"KatanaUI&Form")
 r!==$&&A.a4()
@@ -76680,7 +76680,7 @@ A.Lt.prototype={
 f1(a,b){var s,r,q,p=this,o=null
 $.a2().ao(A.L(A.i(p).a,o)+" build")
 s=p.f
-s.push(A.cW(A.dy("images/text_company_kaigichu.png",o),o,o))
+s.push(A.cW(A.dy("text_company_kaigichu.png",o),o,o))
 r=p.e
 if(r===$){q=A.dZ(!1,"MasamuneUniversalUI")
 r!==$&&A.a4()
@@ -76737,7 +76737,7 @@ A.Lv.prototype={
 f1(a,b){var s,r,q,p=this,o=null
 $.a2().ao(A.L(A.i(p).a,o)+" build")
 s=p.f
-s.push(A.cW(A.dy("images/text_company_kaigichu.png",o),o,o))
+s.push(A.cW(A.dy("text_company_kaigichu.png",o),o,o))
 r=p.e
 if(r===$){q=A.dZ(!1,"Optimus")
 r!==$&&A.a4()
@@ -76794,7 +76794,7 @@ A.Lx.prototype={
 f1(a,b){var s,r,q,p=this,o=null
 $.a2().ao(A.L(A.i(p).a,o)+" build")
 s=p.f
-s.push(A.cW(A.dy("images/text_company_kaigichu.png",o),o,o))
+s.push(A.cW(A.dy("text_company_kaigichu.png",o),o,o))
 r=p.e
 if(r===$){q=A.dZ(!1,"PlutoGrid")
 r!==$&&A.a4()
@@ -76851,7 +76851,7 @@ A.Lz.prototype={
 f1(a,b){var s,r,q,p=this,o=null
 $.a2().ao(A.L(A.i(p).a,o)+" build")
 s=p.f
-s.push(A.cW(A.dy("images/text_company_kaigichu.png",o),o,o))
+s.push(A.cW(A.dy("text_company_kaigichu.png",o),o,o))
 r=p.e
 if(r===$){q=A.dZ(!1,"GoogleFont")
 r!==$&&A.a4()
@@ -76908,7 +76908,7 @@ A.LB.prototype={
 f1(a,b){var s,r,q,p=this,o=null
 $.a2().ao(A.L(A.i(p).a,o)+" build")
 s=p.f
-s.push(A.cW(A.dy("images/text_company_kaigichu.png",o),o,o))
+s.push(A.cW(A.dy("text_company_kaigichu.png",o),o,o))
 r=p.e
 if(r===$){q=A.dZ(!1,"Theme")
 r!==$&&A.a4()
@@ -76965,7 +76965,7 @@ A.LD.prototype={
 f1(a,b){var s,r,q,p=this,o=null
 $.a2().ao(A.L(A.i(p).a,o)+" build")
 s=p.f
-s.push(A.cW(A.dy("images/text_company_kaigichu.png",o),o,o))
+s.push(A.cW(A.dy("text_company_kaigichu.png",o),o,o))
 r=p.e
 if(r===$){q=A.dZ(!1,"\u6a19\u6e96UI\u2015\u90e8\u54c1")
 r!==$&&A.a4()
@@ -76988,15 +76988,15 @@ r=A.jm(A.ij(o),A.dP(o),A.ii(o),17,0,0,0,!1)
 if(!A.eN(r))A.a8(A.es(r))
 q=A.jm(A.ij(o),A.dP(o),A.ii(o),18,0,0,0,!1)
 if(!A.eN(q))A.a8(A.es(q))
-if(B.h.aJ(p,n)>-1&&B.h.aJ(p,s)===-1)return"images/bgrounds/bg_heaven_tengoku.jpg"
-else if(B.h.aJ(p,s)>-1&&B.h.aJ(p,r)===-1)return"images/bgrounds/time2_hiru.png"
-else if(B.h.aJ(p,r)>-1&&B.h.aJ(p,q)===-1)return"images/bgrounds/time3_yuu.png"
-else return"images/bgrounds/time4_yoru.png"}}
+if(B.h.aJ(p,n)>-1&&B.h.aJ(p,s)===-1)return"bgrounds/bg_heaven_tengoku.jpg"
+else if(B.h.aJ(p,s)>-1&&B.h.aJ(p,r)===-1)return"bgrounds/time2_hiru.png"
+else if(B.h.aJ(p,r)>-1&&B.h.aJ(p,q)===-1)return"bgrounds/time3_yuu.png"
+else return"bgrounds/time4_yoru.png"}}
 A.Hz.prototype={
 f1(a,b){var s,r=null,q=A.WC(B.fI,3),p=A.EW(10),o=this.r
 o===$&&A.b()
 s=t.p
-return A.ez(B.a4,A.c([A.rX(B.AZ,A.c([A.ew(r,new A.co(B.or,new A.iQ(B.cF,r,r,o,r),r),B.D,r,new A.dJ(r,r,q,p,r,r,B.aM),this.f,r,r,this.e),A.h8(A.dy("images/komaru_icon_maru.png",r),50,50)],s),B.an,B.d7)],s),B.ah,0,B.aY)}}
+return A.ez(B.a4,A.c([A.rX(B.AZ,A.c([A.ew(r,new A.co(B.or,new A.iQ(B.cF,r,r,o,r),r),B.D,r,new A.dJ(r,r,q,p,r,r,B.aM),this.f,r,r,this.e),A.h8(A.dy("komaru_icon_maru.png",r),50,50)],s),B.an,B.d7)],s),B.ah,0,B.aY)}}
 A.Gd.prototype={
 f1(a,b){var s,r,q,p,o,n,m=this,l=m.z
 l===$&&A.b()
